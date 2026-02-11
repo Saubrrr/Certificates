@@ -3,4 +3,4 @@
 ## TryHackMe
 
 ### Learning Paths:
-- [Pre Security](Certificates/TryHackMe/PreSecurity.pdf)
+- [Pre Security](TryHackMe/PreSecurity.pdf)
